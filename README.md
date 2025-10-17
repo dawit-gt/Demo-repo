@@ -1,6 +1,6 @@
 # Demo 
 Trying to learn Github
-See you
+\nSee you
 ## Sub Header
 watch yotube
 
